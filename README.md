@@ -1,1 +1,3 @@
 # The-Chess-Club
+
+The project for designing a two-player game based on the C++ programming language focuses on the design and implementation of our final semester project titled ‘The CHESS Club’. A new concept: the CHESS Club game is developed through coding skills that help tackle the strategies and tactics of an individual. It is a recreational and competitive game played between two opponents that are played on a square board, made of 8 x 8 smaller squares with white and black pieces (Pawns, Knights, Bishops, Rooks, Queens, and Kings) that move according to the rules. Tactics, the heart of chess, are based on the way the pieces move. Eight squares on each side take turns to move one of their pieces to a different square of the board.
